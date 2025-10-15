@@ -1,0 +1,90 @@
+[submodule "system"]
+	path = system
+	url = https://github.com/stephensmitchell/system
+[submodule "submodules/alibre-assembly-constraints-pp-addon"]
+	path = submodules/alibre-assembly-constraints-pp-addon
+	url = https://github.com/stephensmitchell/alibre-assembly-constraints-pp-addon
+[submodule "submodules/alibre-script-documentation"]
+	path = submodules/alibre-script-documentation
+	url = https://github.com/stephensmitchell/alibre-script-documentation
+[submodule "submodules/alibrex-documentation"]
+	path = submodules/alibrex-documentation
+	url = https://github.com/stephensmitchell/alibrex-documentation
+[submodule "submodules/alibre-sweep-tools-addon"]
+	path = submodules/alibre-sweep-tools-addon
+	url = https://github.com/stephensmitchell/alibre-sweep-tools-addon
+[submodule "submodules/alibre-nocode-addon"]
+	path = submodules/alibre-nocode-addon
+	url = https://github.com/stephensmitchell/alibre-nocode-addon
+[submodule "submodules/alibre-py-gear-addon"]
+	path = submodules/alibre-py-gear-addon
+	url = https://github.com/stephensmitchell/alibre-py-gear-addon
+[submodule "submodules/alibre-feature-naming-addon"]
+	path = submodules/alibre-feature-naming-addon
+	url = https://github.com/stephensmitchell/alibre-feature-naming-addon
+[submodule "submodules/alibre-freecad-addon"]
+	path = submodules/alibre-freecad-addon
+	url = https://github.com/stephensmitchell/alibre-freecad-addon
+[submodule "submodules/alibre-export-addon"]
+	path = submodules/alibre-export-addon
+	url = https://github.com/stephensmitchell/alibre-export-addon
+[submodule "submodules/alibre-property-explorer-addon"]
+	path = submodules/alibre-property-explorer-addon
+	url = https://github.com/stephensmitchell/alibre-property-explorer-addon
+[submodule "submodules/alibre-skinning-addon"]
+	path = submodules/alibre-skinning-addon
+	url = https://github.com/stephensmitchell/alibre-skinning-addon
+[submodule "submodules/alibre-nodes-addon"]
+	path = submodules/alibre-nodes-addon
+	url = https://github.com/stephensmitchell/alibre-nodes-addon
+[submodule "submodules/alibre-script-runner-addon"]
+	path = submodules/alibre-script-runner-addon
+	url = https://github.com/stephensmitchell/alibre-script-runner-addon
+[submodule "submodules/alibre-scripting-addon"]
+	path = submodules/alibre-scripting-addon
+	url = https://github.com/stephensmitchell/alibre-scripting-addon
+[submodule "submodules/alibre-testbed-addon"]
+	path = submodules/alibre-testbed-addon
+	url = https://github.com/stephensmitchell/alibre-testbed-addon
+[submodule "submodules/alibre-excel-addon"]
+	path = submodules/alibre-excel-addon
+	url = https://github.com/stephensmitchell/alibre-excel-addon
+[submodule "submodules/alibre-assimp-addon"]
+	path = submodules/alibre-assimp-addon
+	url = https://github.com/stephensmitchell/alibre-assimp-addon
+[submodule "submodules/alibre-stltostp-addon"]
+	path = submodules/alibre-stltostp-addon
+	url = https://github.com/stephensmitchell/alibre-stltostp-addon
+[submodule "submodules/alibre-shapes-addon"]
+	path = submodules/alibre-shapes-addon
+	url = https://github.com/stephensmitchell/alibre-shapes-addon
+[submodule "submodules/alibre-gh-addon"]
+	path = submodules/alibre-gh-addon
+	url = https://github.com/stephensmitchell/alibre-gh-addon
+[submodule "submodules/alibre-dynamo-addon"]
+	path = submodules/alibre-dynamo-addon
+	url = https://github.com/stephensmitchell/alibre-dynamo-addon
+[submodule "submodules/alibre-vscodium-addon"]
+	path = submodules/alibre-vscodium-addon
+	url = https://github.com/stephensmitchell/alibre-vscodium-addon
+[submodule "submodules/alibre-HOOPS-addon"]
+	path = submodules/alibre-HOOPS-addon
+	url = https://github.com/stephensmitchell/alibre-HOOPS-addon
+[submodule "submodules/alibre-script-adk"]
+	path = submodules/alibre-script-adk
+	url = https://github.com/stephensmitchell/alibre-script-adk
+[submodule "submodules/alibre-sketch-function-library"]
+	path = submodules/alibre-sketch-function-library
+	url = https://github.com/stephensmitchell/alibre-sketch-function-library
+[submodule "submodules/alibre-preset-system-demo"]
+	path = submodules/alibre-preset-system-demo
+	url = https://github.com/stephensmitchell/alibre-preset-system-demo
+[submodule "submodules/alibre-lab-addon"]
+	path = submodules/alibre-lab-addon
+	url = https://github.com/stephensmitchell/alibre-lab-addon
+[submodule "submodules/alibre-design-explorer-refresh-tool"]
+	path = submodules/alibre-design-explorer-refresh-tool
+	url = https://github.com/stephensmitchell/alibre-design-explorer-refresh-tool
+[submodule "submodules/alibre-addon-registry-tool"]
+	path = submodules/alibre-addon-registry-tool
+	url = https://github.com/stephensmitchell/alibre-addon-registry-tool
