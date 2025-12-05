@@ -1,146 +1,62 @@
-```
-alibre-development ADD-ON BUNDLE -  BUILD REPORT - TEMPLATE
+# Alibre Development
 
-Status:
-Repository:
-License:
-Target Framework:
-Build Date:
-Build Status:
-Build Method:
-Total Assemblies:
-Credit:
+Comprehensive source for Alibre development resources: starter projects, templates, and tooling. Includes addons and tools as submodules. This repository is for development and is tightly integrated with my internal processes and pipeline. 
 
-BUILD STATUS SUMMARY
+# The Tool Store GitHub Organization
 
+For organizational purposes I've created [the-tool-store](https://github.com/the-tool-store) for repositories with releases, downloadable zips, installers or web-based installers.
+For add-ons/plug-ins/extensions and Web, CLI or GUI applications. 
 
-CORE LIBRARIES
+- Not Ready
 
-Project Name               Status    Framework    Output       Assembly Name        SDK Style
+# Alibre Visual Studio Extension
 
+[![Preview](https://img.shields.io/badge/Status-Preview-orange.svg)](https://marketplace.visualstudio.com/items?itemName=stephensmitchell.alibreextension)
+[![Visual Studio 2022](https://img.shields.io/badge/VS-2022+-purple.svg)](https://visualstudio.microsoft.com/)
+[![.NET 10](https://img.shields.io/badge/.NET-10.0-blue.svg)](https://dotnet.microsoft.com/)
+[![.NET Framework 4.8.1](https://img.shields.io/badge/.NET%20Framework-4.8.1-blue)](https://learn.microsoft.com/dotnet/framework/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
 
-APPLICATIONS
+### Project Templates (File > New > Project)
 
-Project Name               Status    Framework    Output       Assembly Name        SDK Style
+| Template | Language | Description |
+|----------|----------|-------------|
 
+### Item Templates (Add > New Item)
 
-TEST SUITES
+| Template | Language | Description |
+|----------|----------|-------------|
 
-Project Name               Status    Framework    Output       Assembly Name        SDK Style
+## Installation
 
+### From Visual Studio Marketplace
 
-SOLUTION BUILD VERIFICATION
+- Not Ready
 
-Solution Name              Projects  Result     Warnings  Errors
+Visual Studio extension is the method of accessing AlibreX and AlibreScript for .NET development project templates, starter/example projects, and item templates.
 
+# AlibreScript Visual Studio Code Extension
 
-COMPONENTS OVERVIEW
+   [AlibreScript Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=stephensmitchell.alibrescript)
 
+   [AlibreScript Visual Studio Code Extension Repository](https://github.com/stephensmitchell/alibrescript-vscode)
 
-CORE ADD-ONS
+   VS Code extension is designed for AlibreScript Python/IronPython development.
 
+# AlibreScript Playground
 
+   [AlibreScript Playground](https://000719658.deployed.codepen.website/)
 
-CALCULATION TOOLS
+   [AlibreScript Playground Repository](https://github.com/stephensmitchell/AlibreScript-playground)
+   
+   AlibreScript Playground is a standalone tool for learning and exploring the AlibreScript API in a web browser.
 
+# Documentation
 
+- Not Ready
 
-SUPPORTING TOOLS
+# Community Accounts, Repositories and Projects
 
-
-
-TECHNICAL SPECIFICATIONS
-
-
-BUILD ENVIRONMENT
-
-Target Framework
-Language Version
-Project Format
-Platform Target
-IDE Compatibility
-
-DEPENDENCIES
-
-Alibre Design
-UI Frameworks
-Testing Framework
-Math Rendering
-Data Processing
-
-BUILD COMMANDS
-
-Individual Projects
-Complete Solutions
-Run Tests
-
-OUTPUT CONFIGURATION
-
-Primary Directory
-Secondary Directory
-Target Assemblies
-Project Structure
-Dependencies
-Distribution
-
-
-QUALITY METRICS
-
-
-CODE QUALITY
-
-Build Success Rate
-Test Coverage
-Code Standards
-Documentation
-
-COMPATIBILITY MATRIX
-
-Alibre Design Version  Compatibility Status
-
-
-DEVELOPMENT WORKFLOW
-
-GETTING STARTED
-
-1. Prerequisites
-2. Clone Repository
-3. Build Solution
-4. Run Tests
-
-PROJECT STRUCTURE
-
-
-
-BUILD OUTPUT VERIFICATION
-
-Assembly Listing
-Dependency Resolution
-Output Structure
-Verification Status
-
-COMPLETE BUILD OUTPUT DIRECTORY TREE
-
-
-
-TARGET ASSEMBLIES VERIFICATION:
-
-
-
-BUILD OUTPUT SUMMARY:
-Target Assemblies Present
-Total Assembly Files
-NuGet Dependencies
-Icon Resources
-Configuration Files
-Debug Symbols
-Distribution Status
-
-LICENSE
-
-Licensed under the MIT License - see the LICENSE file for details.
-
-Copyright (c) 2025 Stephen S. Mitchell
-
-END REPORT
-```
+- https://github.com/bolsover
+- https://github.com/Eymeric65/py-gear
+- https://liquidgravity.us/store_test/
