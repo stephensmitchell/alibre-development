@@ -17,21 +17,34 @@ For add-ons/plug-ins/extensions and Web, CLI or GUI applications.
 [![.NET Framework 4.8.1](https://img.shields.io/badge/.NET%20Framework-4.8.1-blue)](https://learn.microsoft.com/dotnet/framework/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
 
-### Project Templates (File > New > Project)
+## Project Templates (File > New > Project)
 
 | Template | Language | Description |
 |----------|----------|-------------|
+| Alibre Script AddOn (C#) | C# | C# Alibre Design AddOn with IronPython scripting support |
+| Alibre Single File AddOn (C#) | C# | Simple C# Alibre Design AddOn with menu integration |
+| Alibre Single File AddOn with Ribbon (C#) | C# | C# Alibre Design AddOn with dedicated Ribbon tab |
+| Alibre Script AddOn (F#) | F# | F# Alibre Design AddOn with IronPython scripting support |
+| Alibre Single File AddOn (F#) | F# | Simple F# Alibre Design AddOn with menu integration |
+| Alibre Single File AddOn with Ribbon (F#) | F# | F# Alibre Design AddOn with dedicated Ribbon tab |
+| Alibre Script AddOn (VB.NET) | VB.NET | VB.NET Alibre Design AddOn with IronPython scripting support |
+| Alibre Single File AddOn (VB.NET) | VB.NET | Simple VB.NET Alibre Design AddOn with menu integration |
+| Alibre Single File AddOn with Ribbon (VB.NET) | VB.NET | VB.NET Alibre Design AddOn with dedicated Ribbon tab |
 
-### Item Templates (Add > New Item)
+## Item Templates (Add > New Item)
 
 | Template | Language | Description |
 |----------|----------|-------------|
+| Alibre Command (C#) | C# | Adds a new Alibre Command to your project |
+| Alibre Command (F#) | F# | Adds a new Alibre Command to your project |
+| Alibre Command (VB.NET) | VB.NET | Adds a new Alibre Command to your project |
+
 
 ## Installation
 
 ### From Visual Studio Marketplace
 
-- Not Ready
+- [Alibre Design Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=stephensmitchell.adextension)
 
 Visual Studio extension is the method of accessing AlibreX and AlibreScript for .NET development project templates, starter/example projects, and item templates.
 
