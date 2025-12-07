@@ -39,7 +39,6 @@ For add-ons/plug-ins/extensions and Web, CLI or GUI applications.
 | Alibre Command (F#) | F# | Adds a new Alibre Command to your project |
 | Alibre Command (VB.NET) | VB.NET | Adds a new Alibre Command to your project |
 
-
 ## Installation
 
 ### From Visual Studio Marketplace
@@ -55,6 +54,10 @@ Visual Studio extension is the method of accessing AlibreX and AlibreScript for 
    [AlibreScript Visual Studio Code Extension Repository](https://github.com/stephensmitchell/alibrescript-vscode)
 
    VS Code extension is designed for AlibreScript Python/IronPython development.
+
+## Alibre API Samples Extension (Official Samples) 
+
+[Alibre API Samples Extension](https://marketplace.visualstudio.com/items?itemName=stephensmitchell.aapisext)
 
 ## AlibreScript Playground
 
