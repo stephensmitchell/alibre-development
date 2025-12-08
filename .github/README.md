@@ -55,7 +55,7 @@ Visual Studio extension is the method of accessing AlibreX and AlibreScript for 
 
    VS Code extension is designed for AlibreScript Python/IronPython development.
 
-## Alibre API Samples Extension (Official Samples) 
+## Alibre API Samples Extension (Official Samples) - Not Ready 
 
 [Alibre API Samples Extension](https://marketplace.visualstudio.com/items?itemName=stephensmitchell.aapisext)
 
