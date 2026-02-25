@@ -75,4 +75,4 @@ Visual Studio extension is the method of accessing AlibreX and AlibreScript for 
 
 - https://github.com/bolsover
 - https://github.com/Eymeric65/py-gear
-- https://liquidgravity.us/store_test/
+- https://liquidgravity.us/store_test/index.php/2024/12/06/some-of-my-other-alibrescript-programs
